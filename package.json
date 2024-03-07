@@ -1,6 +1,6 @@
 {
   "name": "text-summarizerly",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "description": "This npm package provides a comprehensive solution for summarizing textual content, offering various functionalities and customization options.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madman9494/text-summarizer.git"
+    "url": "https://github.com/madman9494/text-summarizer.git"
   },
   "keywords": [
     "text",
