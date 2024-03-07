@@ -1,0 +1,29 @@
+{
+  "name": "text-summarizerly",
+  "version": "1.0.11",
+  "description": "This npm package provides a comprehensive solution for summarizing textual content, offering various functionalities and customization options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madman9494/text-summarizer.git"
+  },
+  "keywords": [
+    "text",
+    "summrizer"
+  ],
+  "author": "madman9494",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madman9494/text-summarizer/issues"
+  },
+  "homepage": "https://github.com/madman9494/text-summarizer#readme",
+  "dependencies": {
+    "color_generator_complex": "^1.0.0",
+    "color-pale-generatorly": "^1.0.0",
+    "randomly-password-generator": "^1.0.0",
+    "textmoji": "^1.0.0"
+  }
+}
